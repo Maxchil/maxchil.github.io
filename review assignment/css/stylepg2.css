@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+.nav-bar{
+    padding: .5rem;
+    background-color: darkgray;
+    position: fixed;
+    width: 100%;
+}
+
+.logo{
+    font-size: 1.5rem;
+    padding-left: 30px;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+}
+.item{
+    position: absolute;
+    top: 13px;
+    color: whitesmoke;
+    font-family: 'Ubuntu', sans-serif;
+}
+a{
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 0;
+}
+
+a:visited{
+    color: whitesmoke;
+}
+
+.title{
+    font-family: 'Lobster', cursive;
+    font-size: 6rem;
+    text-align: center;
+}
+.birth-date{
+    color: #4b4d4f;
+    font-family: 'Lobster', cursive;
+    font-size: 3rem;
+    text-align: center;
+}
+.section1{
+    padding: 6%;
+    background-color: #99e1e5;
+}
+
+.hover:hover{
+    color: teal;
+}
+
+body{
+    background-color: #f6f7d7;
+    margin: 0;
+}
+
+.pargraph2{
+    padding: 2rem;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    color: #4b4d4f;
+}
+.paragrph2t{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 3rem;
+    text-align: center;
+}
+
+hr{
+    height: 0px;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 8px;
+    width: 6%;
+}
+.footer{
+    padding: .7rem;
+    text-align: center;
+    background-color: #3ec1d3;
+}
+
+.footer-text{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.5rem;
+}
+.acii-text{
+    position: absolute;
+    top: 40%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+}
+.text{
+    margin-left: 11%;
+    font-size: 1.2rem; 
+    font-weight: bold;
+    padding: 5% 5% 2% 5%;
+}
+acronym{
+    text-decoration: none;
+}
+.item1{
+    right: 60px;
+}
+.item2{
+    right: 177px;
+}
+.item3{
+    right: 300px;
+}
